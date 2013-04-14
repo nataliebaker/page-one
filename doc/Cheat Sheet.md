@@ -3,12 +3,12 @@ Rails Cheat Sheet
 
 ### Start the rails server
 
-`rails s --debugger`
+`rails s`
 
 
 ###Access the sqlite3 database
 
-`sqlite3 db/<databasefile>`
+`sqlite3 db/development.sqlite3`
 
 
 ###Create a new model (e.g. User)
